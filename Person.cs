@@ -6,4 +6,6 @@ public Class Person
 	String School;
 	int Age;
 	
+	string module;
+	
 }

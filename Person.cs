@@ -4,8 +4,7 @@ public Class Person
 	int ID
 	String Name;
 	String School;
-	int Age;
-	
-	string module;
-	
+	int Age;	
+	string module;	
+	string MasterBranch
 }

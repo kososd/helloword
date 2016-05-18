@@ -3,5 +3,6 @@ public Class Person
 {
 	int ID
 	String Name;
+	String School;
 	
 }

@@ -7,4 +7,6 @@ public Class Person
 	int Age;	
 	string module;	
 	string MasterBranch
+	string ConnectionString = "Dev Branch"
+	Debug defect 123
 }
